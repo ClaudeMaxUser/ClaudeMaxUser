@@ -1,16 +1,7 @@
-<!--
-███████╗██╗   ██╗██╗     ██╗         ███████╗████████╗ █████╗  ██████╗██╗  ██╗
-██╔════╝██║   ██║██║     ██║         ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
-█████╗  ██║   ██║██║     ██║         ███████╗   ██║   ███████║██║     █████╔╝
-██╔══╝  ██║   ██║██║     ██║         ╚════██║   ██║   ██╔══██║██║     ██╔═██╗
-██║     ╚██████╔╝███████╗███████╗    ███████║   ██║   ██║  ██║╚██████╗██║  ██╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
--->
-
 <div align="center">
 
 <!-- Animated typing header (removed broken profile link) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi%2C+I'm+Arijit Biswas+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Web+Architect;I+build+things+that+live+on+the+internet." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi%2C+I%27m+Arijit+Biswas+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Web+Architect;I+build+things+that+live+on+the+internet." alt="Typing SVG" />
 
 <br/>
 
@@ -196,6 +187,6 @@ _(click image to open on Spotify)_
 
 <br/>
 
-*Last updated: April 24, 2026 — 14:35 UTC*
+_Last updated: auto-magically via GitHub Actions_
 
 </div>
