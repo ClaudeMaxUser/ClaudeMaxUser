@@ -159,9 +159,8 @@ const dev = {
 
 ## ◈ NOW PLAYING
 
-      [![Now Playing — Mania](https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fafad59adf30987bc839c6c7)](https://open.spotify.com/track/7fqqrs535mo8bCS0LhY20n?si=245a750b0aad479a)
+[![Spotify](https://novatorem.ClaudeMaxUser.vercel.app/api/spotify?background_color=0d1117&border_color=00d9ff)](https://open.spotify.com/track/7fqqrs535mo8bCS0LhY20n?si=245a750b0aad479a)
 
-      _(click image to open on Spotify)_
 
 <!-- _( or replace with your own "currently listening" widget )_ -->
 
