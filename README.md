@@ -200,6 +200,6 @@ const dev = {
 
 <br/>
 
-_Last updated: auto-magically via GitHub Actions_
+*Last updated: April 24, 2026 — 14:26 UTC*
 
 </div>
