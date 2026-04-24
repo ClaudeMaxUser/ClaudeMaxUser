@@ -9,10 +9,8 @@
 
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://github.com/ClaudeMaxUser">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi%2C+I'm+Arijit Biswas+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Web+Architect;I+build+things+that+live+on+the+internet." alt="Typing SVG" />
-</a>
+<!-- Animated typing header (removed broken profile link) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hi%2C+I'm+Arijit Biswas+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Web+Architect;I+build+things+that+live+on+the+internet." alt="Typing SVG" />
 
 <br/>
 
@@ -54,7 +52,7 @@
 ```typescript
 const dev = {
   name: "Arijit Biswas",
-  location: "🌍 Earth — probably staring at a terminal",
+  location: "Earth — most probably staring at a terminal",
   role: "Full-Stack Engineer",
   obsessions: ["performance", "scalability", "clean APIs"],
   currently: "Building something the internet didn't know it needed",
@@ -159,10 +157,9 @@ const dev = {
 
 ## ◈ NOW PLAYING
 
-[![Spotify](https://novatorem.ClaudeMaxUser.vercel.app/api/spotify?background_color=0d1117&border_color=00d9ff)](https://open.spotify.com/track/7fqqrs535mo8bCS0LhY20n?si=245a750b0aad479a)
+[![Now Playing — Mania](https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fafad59adf30987bc839c6c7)](https://open.spotify.com/track/7fqqrs535mo8bCS0LhY20n?si=245a750b0aad479a)
 
-
-<!-- _( or replace with your own "currently listening" widget )_ -->
+_(click image to open on Spotify)_
 
 </div>
 
@@ -199,6 +196,6 @@ const dev = {
 
 <br/>
 
-*Last updated: April 24, 2026 — 14:29 UTC*
+_Last updated: auto-magically via GitHub Actions_
 
 </div>
