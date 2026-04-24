@@ -178,15 +178,17 @@ _(click image to open on Spotify)_
 
 <!-- Footer -->
 
-```
+<div align="center">
+<pre>
 ╔═══════════════════════════════════════════════════╗
 ║     Thanks for scrolling this far. Now go         ║
 ║     build something worth committing to. 🖤       ║
 ╚═══════════════════════════════════════════════════╝
-```
+</pre>
+</div>
 
 <br/>
 
-*Last updated: April 24, 2026 — 14:47 UTC*
+_Last updated: auto-magically via GitHub Actions_
 
 </div>
