@@ -102,7 +102,7 @@ const dev = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudeMaxUser&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeMaxUser&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
-<br/><br/>
+<br/>
 
 _streaks are just anxiety with a progress bar_
 
@@ -157,8 +157,6 @@ _streaks are just anxiety with a progress bar_
 ## ◈ NOW PLAYING
 
 [![Last.fm](https://music-khaki-eight.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true)](https://www.last.fm/user/arijit2611)
-
-_(click image to open on Spotify)_
 
 </div>
 
