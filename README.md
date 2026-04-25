@@ -28,7 +28,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ location        → somewhere between a bug and a fix       ║
-║  $ working_on      → rail-info  (ETA: when it's ready)       ║
+║  $ working_on      → rail-info  (ETA: hopefully sooner       ║
+║                      rather than later)                      ║
 ║  $ last_commit     → "fix: the thing that broke the thing"   ║
 ║  $ tab_count       → [REDACTED]                              ║
 ║  $ asking_for_help → no (lying)                              ║
@@ -53,7 +54,7 @@ const dev = {
   obsessions: ["performance", "scalability", "clean APIs"],
   currently: "Turning a half-baked idea into a half-finished product",
   philosophy: "Good code is written twice — once for the machine, once for the next poor soul who reads it.",
-  funFact: "My git blame is basically a sleep diary ☕",
+  funFact: "funFact: "my projects exist in three states: 'will start soon', 'started (abandoned)', and 'why are there 23 open issues'",
 };
 ```
 
