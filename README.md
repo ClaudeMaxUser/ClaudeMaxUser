@@ -7,7 +7,7 @@
 
 <!-- Cinematic tagline -->
 
-> _"Code is poetry written for machines, but meant to be read by humans."_
+> _"Lo, as verse most eloquent is wrought by the quill of the learned scribe — so too is Code a manner of Poetrie, crafted with great deliberation and cunning artifice for the comprehension of those mechanical Automatons and clockwork Engines of Computation; yet, forsooth, it is ordained and purposed in its deepest essence that mortal Men of Letters and learned Clerkes shall hereupon cast their eyes, and therein find Meaning most profound."_
 
 <br/>
 
