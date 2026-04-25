@@ -7,7 +7,7 @@
 
 <!-- Cinematic tagline -->
 
-> _"Lo, as verse most eloquent is wrought by the quill of the learned scribe — so too is Code a manner of Poetrie, crafted with great deliberation and cunning artifice for the comprehension of those mechanical Automatons and clockwork Engines of Computation; yet, forsooth, it is ordained and purposed in its deepest essence that mortal Men of Letters and learned Clerkes shall hereupon cast their eyes, and therein find Meaning most profound."_
+> _"> Writing code is easy. Writing code someone else can read at 2AM is the whole job."_
 
 <br/>
 
@@ -112,6 +112,9 @@ _streaks are just anxiety with a progress bar_
 
 <br/><br/>
 
+_↳ where the nights went_
+
+<br/>
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudeMaxUser&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
@@ -136,7 +139,7 @@ _streaks are just anxiety with a progress bar_
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClaudeMaxUser&repo=rail-info&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
-      <p align="center"><em>Web app to get real-time updates on train schedules, live train locations, and station information across Indian Railways.</em></p>
+      <p align="center"><em>Because Indian Railways deserves better than refreshing a 2007 government website.</em></p>
     </td>
     <td width="50%">
       <h3 align="center">DropVault</h3>
@@ -145,7 +148,7 @@ _streaks are just anxiety with a progress bar_
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClaudeMaxUser&repo=DropVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
-      <p align="center"><em>Serverless P2P file transfer in the browser.</em></p>
+      <p align="center"><em>No servers. No accounts. No nonsense. Just drop a file and share the link..</em></p>
     </td>
   </tr>
 </table>
@@ -158,13 +161,15 @@ _streaks are just anxiety with a progress bar_
 
 [![Last.fm](https://music-khaki-eight.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true)](https://www.last.fm/user/arijit2611)
 
+_what's playing while the build runs_
+
 </div>
 
 ---
 
 <div align="center">
 
-## ◈ FIND ME IN THE WILD
+## ◈ ELSEWHERE
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://arijitbiswas.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit--biswas/)
