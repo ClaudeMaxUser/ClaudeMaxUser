@@ -102,9 +102,9 @@ const dev = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudeMaxUser&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudeMaxUser&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 
-<br/>
+<br/><br/>
 
-_streaks are just anxiety with a progress bar_
+_↳ streaks are just anxiety with a progress bar_
 
 <br><br>
 <!-- Streak stats -->
