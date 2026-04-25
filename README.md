@@ -46,9 +46,9 @@ const dev = {
   location: "Earth — most probably staring at a terminal",
   role: "Full-Stack Engineer",
   obsessions: ["performance", "scalability", "clean APIs"],
-  currently: "Building something the internet didn't know it needed",
-  philosophy: "Ship fast. Refactor faster. Never stop learning.",
-  funFact: "I've debugged more at 2AM than in daylight ☕",
+  currently: "Turning a half-baked idea into a half-finished product",
+  philosophy: "Good code is written twice — once for the machine, once for the next poor soul who reads it.",
+  funFact: "My git blame is basically a sleep diary ☕",
 };
 ```
 
