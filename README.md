@@ -106,7 +106,7 @@ const dev = {
 
 _↳ streaks are just anxiety with a progress bar_
 
-<br><br>
+
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=ClaudeMaxUser&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 
@@ -114,7 +114,7 @@ _↳ streaks are just anxiety with a progress bar_
 
 _↳ where the nights went_
 
-<br/>
+
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudeMaxUser&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
