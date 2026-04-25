@@ -99,6 +99,9 @@ const dev = {
 
 <br/><br/>
 
+_streaks are just anxiety with a progress bar_
+
+<br><br>/
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=ClaudeMaxUser&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 
