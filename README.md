@@ -162,7 +162,7 @@ _↳ where the nights went_
 
 [![Last.fm](https://music-khaki-eight.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true)](https://www.last.fm/user/arijit2611)
 
-_what's playing while the build runs_
+_↳ what's playing while the build runs_
 
 </div>
 
