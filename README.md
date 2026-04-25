@@ -53,8 +53,10 @@ const dev = {
   role: "Full-Stack Engineer",
   obsessions: ["performance", "scalability", "clean APIs"],
   currently: "Turning a half-baked idea into a half-finished product",
-  philosophy: "Good code is written twice — once for the machine, once for the next poor soul who reads it.",
-  funFact: "My projects exist in three states: 'will start soon', 'started (abandoned)', and 'why are there 23 open issues'",
+  philosophy: "Good code is written twice — once for the machine, once for the next poor
+               soul who reads it.",
+  funFact: "My projects exist in three states: 'will start soon', 'started (abandoned)',
+            and 'why are there 23 open issues'",
 };
 ```
 
