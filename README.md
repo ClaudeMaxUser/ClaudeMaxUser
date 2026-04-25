@@ -181,8 +181,8 @@ _(click image to open on Spotify)_
 <div align="center">
 <pre>
 ╔═══════════════════════════════════════════════════╗
-║     Thanks for scrolling this far. Now go         ║
-║     build something worth committing to. 🖤       ║
+║   EOF. Thanks for reading.                        ║
+║   — Arijit                               🖤       ║
 ╚═══════════════════════════════════════════════════╝
 </pre>
 </div>
