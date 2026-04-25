@@ -148,7 +148,7 @@ const dev = {
 
 ## ◈ NOW PLAYING
 
-[![Now Playing — Mania](https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02fafad59adf30987bc839c6c7)](https://open.spotify.com/track/7fqqrs535mo8bCS0LhY20n?si=245a750b0aad479a)
+[![Last.fm](https://music-khaki-eight.vercel.app/api/orchestrator?background_type=blur_dark&border_color=333333&show_status=true)](https://www.last.fm/user/arijit2611)
 
 _(click image to open on Spotify)_
 
