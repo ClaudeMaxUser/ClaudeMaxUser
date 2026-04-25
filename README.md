@@ -144,7 +144,7 @@ _↳ where the nights went_
     <td width="50%">
       <h3 align="center">DropVault</h3>
       <p align="center">
-        <a href="https://github.com/ClaudeMaxUser/project-beta">
+        <a href="https://github.com/ClaudeMaxUser/DropVault">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClaudeMaxUser&repo=DropVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
