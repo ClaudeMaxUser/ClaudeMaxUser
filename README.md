@@ -22,15 +22,20 @@
 
 <!-- ASCII BANNER - renders in raw view, adds soul to the file -->
 
+<div align="center">
+<pre>
+  
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  > SYSTEM ONLINE          > STACK LOADED       > LET'S GO    ║
-║  > FRONTEND:  React · Next.js · TypeScript                   ║
-║  > BACKEND:   Node · Express · PostgreSQL · Redis            ║
-║  > CLOUD:     Docker · Vercel · AWS · CI/CD                  ║
-║  > STATUS:    [ ████████████████████ ] 100% caffeinated      ║
+║  $ location        → somewhere between a bug and a fix       ║
+║  $ working_on      → rail-info  (ETA: when it's ready)       ║
+║  $ last_commit     → "fix: the thing that broke the thing"   ║
+║  $ tab_count       → [REDACTED]                              ║
+║  $ asking_for_help → no (lying)                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+</pre>
+</div>
 
 ---
 
@@ -101,7 +106,7 @@ const dev = {
 
 _streaks are just anxiety with a progress bar_
 
-<br><br>/
+<br><br>
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=ClaudeMaxUser&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 
