@@ -19,8 +19,6 @@
 
 <div align="center">
 <pre>
-  
-```
 ╔══════════════════════════════════════════════════════════════╗
 ║  $ location        → somewhere between a bug and a fix       ║
 ║  $ working_on      → rail-info  (ETA: hopefully sooner       ║
@@ -29,7 +27,6 @@
 ║  $ tab_count       → [REDACTED]                              ║
 ║  $ asking_for_help → no (lying)                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 </pre>
 </div>
 
@@ -198,6 +195,6 @@ _↳ what's playing while the build runs_
 
 <br/>
 
-*Last updated: April 30, 2026 — 11:31 UTC*
+*Last updated: April 30, 2026 — 08:06 UTC by [github-actions\[bot\]](https://github.com/features/actions)*
 
 </div>
