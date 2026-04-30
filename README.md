@@ -11,11 +11,6 @@
 
 <br/>
 
-<!-- Profile views + followers badges -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=ClaudeMaxUser&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/ClaudeMaxUser?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)
-
 </div>
 
 ---
@@ -53,8 +48,10 @@ const dev = {
   role: "Full-Stack Engineer",
   obsessions: ["performance", "scalability", "clean APIs"],
   currently: "Turning a half-baked idea into a half-finished product",
-  philosophy: "Done is better than perfect — but I'll reopen that PR at 11pm anyway",
-  funFact: "My projects exist in three states: 'will start soon', 'started (abandoned)', and 'why are there 23 open issues'",
+  philosophy:
+    "Done is better than perfect — but I'll reopen that PR at 11pm anyway",
+  funFact:
+    "My projects exist in three states: 'will start soon', 'started (abandoned)', and 'why are there 23 open issues'",
 };
 ```
 
@@ -107,14 +104,12 @@ const dev = {
 
 _↳ streaks are just anxiety with a progress bar_
 
-
 <!-- Streak stats -->
 <img src="https://streak-stats.demolab.com?user=ClaudeMaxUser&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 
 <br/><br/>
 
 _↳ where the nights went_
-
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudeMaxUser&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
@@ -192,15 +187,17 @@ _↳ what's playing while the build runs_
 
 <div align="center">
 <pre>
-╔═══════════════════════════════════════════════════╗
-║   EOF. Thanks for reading.                        ║
-║   — Arijit                               🖤       ║
-╚═══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════╗
+║  $ session_end     → you made it to the bottom               ║
+║  $ verdict         → works on my machine™                    ║
+║  $ next_step       → write tests (still lying)               ║
+║  $ signing_off     → Arijit                                  ║
+╚══════════════════════════════════════════════════════════════╝
 </pre>
 </div>
 
 <br/>
 
-*Last updated: April 30, 2026 — 08:06 UTC*
+_Last updated: April 30, 2026 — 08:06 UTC_
 
 </div>
