@@ -23,7 +23,8 @@
 ║  $ location        → somewhere between a bug and a fix       ║
 ║  $ working_on      → rail-info  (ETA: hopefully sooner       ║
 ║                      rather than later)                      ║
-║  $ last_commit     → "fix: the thing that broke the thing"   ║
+║  $ last_commit     → "fix: the thing that broke the          ║
+║                      other thing"                            ║
 ║  $ tab_count       → [REDACTED]                              ║
 ║  $ asking_for_help → no (lying)                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -65,8 +66,8 @@ const dev = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **— BACKEND —**
 
@@ -78,7 +79,6 @@ const dev = {
 
 **— CLOUD & DEVOPS —**
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -195,6 +195,6 @@ _↳ what's playing while the build runs_
 
 <br/>
 
-*Last updated: April 30, 2026 — 11:34 UTC*
+*Last updated: April 30, 2026 — 08:06 UTC by [github-actions\[bot\]](https://github.com/features/actions)*
 
 </div>
