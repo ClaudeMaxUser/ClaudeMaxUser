@@ -141,7 +141,7 @@ _↳ where the nights went_
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClaudeMaxUser&repo=DropVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
-      <p align="center"><em>No servers. No accounts. No nonsense. Just drop a file and share the link..</em></p>
+      <p align="center"><em>No servers. No accounts. No nonsense. Just verify, connect and share files.</em></p>
     </td>
   </tr>
 </table>
