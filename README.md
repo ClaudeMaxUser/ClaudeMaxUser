@@ -129,7 +129,7 @@ _↳ where the nights went_
       <h3 align="center">rail-info (Under Development)</h3>
       <p align="center">
         <a href="https://github.com/ClaudeMaxUser/rail-info">
-          <img src="https://github-readme-stats-lemon-sigma-72.vercel.app/api/pin/?username=ClaudeMaxUser&repo=rail-info&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+          <img src="https://github-readme-stats-three-peach-25.vercel.app/api/pin/?username=ClaudeMaxUser&repo=rail-info&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
       <p align="center"><em>Because Indian Railways deserves better than refreshing a 2007 government website.</em></p>
@@ -138,7 +138,7 @@ _↳ where the nights went_
       <h3 align="center">DropVault</h3>
       <p align="center">
         <a href="https://github.com/ClaudeMaxUser/DropVault">
-          <img src="https://github-readme-stats-lemon-sigma-72.vercel.app/api/pin/?username=ClaudeMaxUser&repo=DropVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+          <img src="https://github-readme-stats-three-peach-25.vercel.app/api/pin/?username=ClaudeMaxUser&repo=DropVault&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
         </a>
       </p>
       <p align="center"><em>No servers. No accounts. No nonsense. Just verify, connect and share files.</em></p>
