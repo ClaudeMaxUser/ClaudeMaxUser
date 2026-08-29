@@ -200,6 +200,6 @@ _↳ what's playing while the build runs_
 
 <br/>
 
-*Last updated: August 29, 2026 — 01:20 UTC*
+*Last updated: August 29, 2026 — 11:59 UTC*
 
 </div>
