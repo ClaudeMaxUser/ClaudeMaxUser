@@ -130,3 +130,38 @@ jobs:
           git add README.md
           git diff --staged --quiet || git commit -m "chore: refresh profile [skip ci]"
           git push
+
+  activity-graph:
+    needs: stats
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate activity graph (dark)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true
+          output_path: profile/activity-graph-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate activity graph (light)
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=minimal&bg_color=ffffff&color=00d9ff&line=00d9ff&point=24292f&area=true&hide_border=true
+          output_path: profile/activity-graph-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit activity graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git stash --include-untracked
+          git pull --rebase origin main
+          git stash pop
+          git add profile/activity-graph-dark.svg profile/activity-graph-light.svg
+          git diff --staged --quiet || git commit -m "chore: update activity graph [skip ci]"
+          git push
