@@ -55,7 +55,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git stash --include-untracked
           git pull --rebase origin main
-          git stash pop
+          git stash list | grep -q . && git stash pop
           git add profile/streak-dark.svg profile/streak-light.svg
           git diff --staged --quiet || git commit -m "chore: update streak stats [skip ci]"
           git push
@@ -106,7 +106,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git stash --include-untracked
           git pull --rebase origin main
-          git stash pop
+          git stash list | grep -q . && git stash pop
           git add profile/stats-dark.svg profile/stats-light.svg profile/top-langs-dark.svg profile/top-langs-light.svg
           git diff --staged --quiet || git commit -m "chore: update stats cards [skip ci]"
           git push
@@ -126,7 +126,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git stash --include-untracked
           git pull --rebase origin main
-          git stash pop
+          git stash list | grep -q . && git stash pop
           git add README.md
           git diff --staged --quiet || git commit -m "chore: refresh profile [skip ci]"
           git push
@@ -161,7 +161,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git stash --include-untracked
           git pull --rebase origin main
-          git stash pop
+          git stash list | grep -q . && git stash pop
           git add profile/activity-graph-dark.svg profile/activity-graph-light.svg
           git diff --staged --quiet || git commit -m "chore: update activity graph [skip ci]"
           git push
