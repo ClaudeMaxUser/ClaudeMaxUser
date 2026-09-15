@@ -126,19 +126,22 @@ _↳ streaks are just anxiety with a progress bar_
 _↳ where the nights went_
 
 <!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ClaudeMaxUser&theme=github-compact&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/activity-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/activity-graph-light.svg"/>
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/activity-graph-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
+<!--
 <div align="center">
 
 ## ◈ FEATURED PROJECTS
 
 </div>
-
-<!-- Project cards - replace with your actual repos -->
 
 <table align="center">
   <tr>
@@ -164,6 +167,7 @@ _↳ where the nights went_
 </table>
 
 ---
+-->
 
 <div align="center">
 
