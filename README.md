@@ -98,16 +98,28 @@ const dev = {
 
 <br/>
 
-<!-- Dark theme stat cards -->
-<img height="180em" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/stats.svg"/>
-<img height="180em" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/top-langs.svg"/>
+<!-- Dark/light theme stat cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/stats-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/stats-light.svg"/>
+  <img height="180em" alt="GitHub Stats" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/stats-dark.svg"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/top-langs-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/top-langs-light.svg"/>
+  <img height="180em" alt="Top Languages" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/top-langs-dark.svg"/>
+</picture>
 
 <br/><br/>
 
 _↳ streaks are just anxiety with a progress bar_
 
 <!-- Streak stats -->
-<img src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/streak.svg" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/streak-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/streak-light.svg"/>
+  <img alt="GitHub Streak" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/streak-dark.svg"/>
+</picture>
 
 <br/><br/>
 
