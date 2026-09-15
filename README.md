@@ -7,7 +7,7 @@
 
 <!-- Cinematic tagline -->
 
-> _"> Writing code is easy. Writing code someone else can read at 2AM is the whole job."_
+> _"Writing code is easy. Writing code someone else can read at 2AM is the whole job."_
 
 <br/>
 
@@ -99,15 +99,15 @@ const dev = {
 <br/>
 
 <!-- Dark theme stat cards -->
-<img height="180em" src="https://github-readme-stats-three-peach-25.vercel.app/api?username=ClaudeMaxUser&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats-three-peach-25.vercel.app/api/top-langs/?username=ClaudeMaxUser&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+<img height="180em" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/stats.svg"/>
+<img height="180em" src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/top-langs.svg"/>
 
 <br/><br/>
 
 _↳ streaks are just anxiety with a progress bar_
 
 <!-- Streak stats -->
-<img src="https://github-readme-streak-stats-puce-six.vercel.app/?user=ClaudeMaxUser&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
+<img src="https://raw.githubusercontent.com/ClaudeMaxUser/ClaudeMaxUser/main/profile/streak.svg" alt="GitHub Streak"/>
 
 <br/><br/>
 
