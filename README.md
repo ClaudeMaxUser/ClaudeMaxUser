@@ -203,21 +203,6 @@ _↳ what's playing while the build runs_
 
 <br/><br/>
 
-<!-- Footer -->
-
-<div align="center">
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║  $ session_end     → you made it to the bottom               ║
-║  $ verdict         → works on my machine™                    ║
-║  $ next_step       → write tests (still lying)               ║
-║  $ signing_off     → Arijit                                  ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-</div>
-
-<br/>
-
 *Last updated: September 16, 2026 — 05:44 UTC*
 
 </div>
