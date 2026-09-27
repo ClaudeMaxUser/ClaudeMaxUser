@@ -190,8 +190,8 @@ _↳ what's playing while the build runs_
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://arijit-neon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijit--biswas/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijitb0810@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-PieceOfSchist.jk__jk-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/) 
-[![Steam](https://img.shields.io/badge/Steam-PieceOfSchist-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198452113551/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/445228517316100097)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198452113551/)
 
 <br/>
 
